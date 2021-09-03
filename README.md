@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ferhatibrik
+- 👀 I’m Front-end Developer
+- 🌱  I’m currently learning Node.js and Vue.js
+- 📫 How to reach me: nightblue165@gmail.com
